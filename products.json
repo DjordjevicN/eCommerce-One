@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "1"
+      },
+      "fields": {
+        "title": "Gorgonzola",
+        "price": 10.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/pizza/pizza1.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2"
+      },
+      "fields": {
+        "title": "Hawaii",
+        "price": 12.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/pizza/pizza2.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3"
+      },
+      "fields": {
+        "title": "Jalapeño",
+        "price": 12.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/pizza/pizza3.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4"
+      },
+      "fields": {
+        "title": "Prosciutto",
+        "price": 22.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/pizza/pizza4.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "Valentina",
+        "price": 18.79,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/pizza/pizza5.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6"
+      },
+      "fields": {
+        "title": "Vege",
+        "price": 22.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/pizza/pizza6.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7"
+      },
+      "fields": {
+        "title": "Chickenero",
+        "price": 15.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/pizza/pizza7.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "Caprese",
+        "price": 18.39,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/pizza/pizza8.png"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
